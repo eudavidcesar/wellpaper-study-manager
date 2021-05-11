@@ -29,6 +29,12 @@ This is a code:
 	getName("David")
 
 	endProng()
+	
+```JavaScript
+function name () {
+	console.log()
+}
+```
 
 Markdown is a `<em>text-to-html</em>` conversion tool for readers.
 
